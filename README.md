@@ -6,6 +6,10 @@ The application uses **Gemma 4** through the Gemini API and was prototyped with 
 
 ### [Try the Live Demo](https://gitguard-ai-code-reviewlovableapp.lovable.app)
 
+## Demo
+
+![GitGuard detecting an authorization bypass](docs/images/gitguard-demo.png)
+
 ## Features
 
 - **AI-powered analysis:** Analyze Git diffs for potential bugs and security vulnerabilities.
