@@ -111,3 +111,8 @@ This prototype was built with assistance from Lovable and uses Google's Gemma 4 
 ## Limitations
 
 AI-generated reviews can contain false positives or miss important issues. GitGuard is intended to assist code review, not replace human reviewers or dedicated security analysis tools. 
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
